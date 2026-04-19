@@ -1,4 +1,3 @@
-
 ### 👋 Hi, I'm Meet Lodariya.Welcome to My Github Profile
 ---
 ## ✨ About Me
@@ -28,6 +27,9 @@ Skilled in Java and DSA, building real-world projects and continuously improving
 ![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=white)
 
+---
+
+
 ## Connect
 
 <div align="center">
@@ -47,3 +49,10 @@ Skilled in Java and DSA, building real-world projects and continuously improving
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer&animation=fadeIn"/>
 
 </div>
+
+
+
+
+
+
+
