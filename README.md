@@ -1,8 +1,9 @@
-### 👋 Hi, I'm Meet Lodariya.Welcome to My Github Profile
----
-## ✨ About Me
-I'm a Frontend developer and 2nd-year IT student @L.D.College Of Engineering,Ahmedabad.I'm passionate about web development and problem solving.
-Skilled in Java and DSA, building real-world projects and continuously improving my craft.I have Strong interest in AI/ML and exporing new AI tools.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Meet%20Lodariya&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20&descSize=18&descAlignY=55&textBg=false"/>
+
+## 📌 About Me
+- I'm a Frontend developer and 2nd-year IT student @L.D.College Of Engineering,Ahmedabad.I'm passionate about web development and problem solving. Skilled in Java and DSA, building real-world projects and continuously improving my craft.I have Strong interest in AI/ML and exporing new AI tools.
+
+
 
 ---
 ## Tech Stack
@@ -29,6 +30,14 @@ Skilled in Java and DSA, building real-world projects and continuously improving
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Meetlodariya254">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Meetlodariya254&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Meetlodariya254's GitHub Stats" />
+  </a>
+</p>
+
+---
 
 ## Connect
 
