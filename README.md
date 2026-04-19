@@ -1,3 +1,4 @@
+
 ### 👋 Hi, I'm Meet Lodariya.Welcome to My Github Profile
 ---
 ## ✨ About Me
@@ -5,6 +6,28 @@ I'm a Frontend developer and 2nd-year IT student @L.D.College Of Engineering,Ahm
 Skilled in Java and DSA, building real-world projects and continuously improving my craft.I have Strong interest in AI/ML and exporing new AI tools.
 
 ---
+## Tech Stack
+
+**Frontend**
+&nbsp;
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Backend & Databases**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**Tools**
+&nbsp;
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=white)
+
 ## Connect
 
 <div align="center">
